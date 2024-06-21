@@ -6,6 +6,22 @@ body {
     background-color: #fdc3c9;
   }
 
+.top-link {
+    width: 100%;
+    text-align: center;
+    background-color: #f0f0f0; /* Adjust the background color as needed */
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.top-link a {
+    font-size: 16px; /* Adjust the font size as needed */
+    text-decoration: none;
+    color: #000; /* Adjust the color as needed */
+}
+
   .container {
     position: relative;
     margin-top: 200px;
